@@ -1,0 +1,27 @@
+h1 {
+	border: 5px solid grey;
+	text-align: center;
+}
+h4:hover {
+	color: red;
+	cursor: pointer;
+}
+p{
+	color: rgb(200,100,20);
+}
+
+.webtext{
+	background-color: rgba(0,0,255,0.2);
+}
+
+.active{
+	background-color: rgba(0,255,0,0.2);
+}
+
+#div1{
+	background-color: rgba(0,255,0,0.3);
+}
+
+#div2{
+	background-color: rgba(0,0,255,0.2);
+}
